@@ -1,1 +1,1 @@
-Welcome to our team printf project.
+Welcome to the team printf project
